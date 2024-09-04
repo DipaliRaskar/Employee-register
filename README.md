@@ -68,7 +68,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/employee-register.git
+    git clone https://github.com/DipaliRaskar/Employee-register
     ```
 
 2. **Navigate to Project Directory**:
